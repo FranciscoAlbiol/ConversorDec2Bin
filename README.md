@@ -1,4 +1,5 @@
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcreas-ids.es%2Fclientes%2Flogo-uji-3&psig=AOvVaw2x5a5bUQXzeB23jC5Xa3Bu&ust=1695312229299000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiDpavIuYEDFQAAAAAdAAAAABAD)
+![imatge](https://github.com/FranciscoAlbiol/ConversorDec2Bin/assets/144936047/7864c4b9-20ec-4492-a6cb-c32b828707de)
+)
 
 ***
 
