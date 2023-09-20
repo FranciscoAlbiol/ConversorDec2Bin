@@ -1,5 +1,4 @@
 ![imatge](https://github.com/FranciscoAlbiol/ConversorDec2Bin/assets/144936047/7864c4b9-20ec-4492-a6cb-c32b828707de)
-)
 
 ***
 
